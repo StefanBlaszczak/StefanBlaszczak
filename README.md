@@ -2,7 +2,7 @@
 
 <h2>👨‍💻🔒 Cybersecurity Projects:</h2>
 
-- <b> [Wireshark Lab] (https://github.com/StefanBlaszczak/WiresharkLab)
+- <b> [Wireshark Lab](https://github.com/StefanBlaszczak/WiresharkLab)
 
 <h2> 🤳 Connect with me:</h2>
 
