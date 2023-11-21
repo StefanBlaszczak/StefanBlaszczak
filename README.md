@@ -3,7 +3,7 @@
 <h2>👨‍💻🔒 Cybersecurity Projects:</h2>
 
 - <b> [Wireshark Lab](https://github.com/StefanBlaszczak/WiresharkLab)
-- <b> [Wireshark Lab](https://github.com/StefanBlaszczak/ActiveDirectoryLab)
+- <b> [Active Directory Lab](https://github.com/StefanBlaszczak/ActiveDirectoryLab)
 
 <h2> 🤳 Connect with me:</h2>
 
